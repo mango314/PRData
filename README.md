@@ -13,7 +13,7 @@ Examples of Open Data for Puerto Rico
 
 ### Example #3: Department of Labor
 
-* [Department of Labor](http://www.trabajo.pr.gov/det_estadistica.asp?cnt_id=461)
+* http://www.trabajo.pr.gov/det_estadistica.asp?cnt_id=461
 
 ---
 

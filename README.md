@@ -11,6 +11,10 @@ Examples of Open Data for Puerto Rico
 
 * http://www.bgfpr.com/investors_resources/commonwealth-cafr.html
 
+### Example #3: Department of Labor
+
+* [Department of Labor](http://www.trabajo.pr.gov/det_estadistica.asp?cnt_id=461)
+
 ---
 
 Basic Strategy:
